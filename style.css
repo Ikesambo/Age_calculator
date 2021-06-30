@@ -1,0 +1,96 @@
+   body{
+     width:50%;
+     margin:0 auto;
+      }
+   .container{
+      background-color:#4169E1;
+      height:80px;
+      color:white;
+      text-align:center;
+	  font-size:25px;
+
+      }
+	  .button input{
+		  margin-top:20px;
+		  width:200px;
+		  margin-left:220px;
+	      background-color:#1da1f2;
+		  border:solid #1da1f2;
+		  border-radius:5px;
+		  color:white;
+	  }
+	  ..button input:hover{
+
+	  }
+	  .container a{
+	  }
+    .container-2{
+        height:250px;
+        background-color:#DCDCDC;
+        margin-top:10px;
+
+      }
+      td{
+        border:black solid 1px;
+        background-color: :blue;
+      }
+	  .container-2 input{
+		  width:500px;
+		  height:40px;
+		  text-align:center;
+		  font-size:20px;
+		  margin-left:14%;
+	  }
+      .container-2 a{
+		  margin-left:14%;
+		  font-size:20px;
+	  }
+	  h1{
+		  color:#191970
+	  }
+	  p{
+		   font-size:20px;
+	  }
+	  .a{
+
+		  background-color:yellow;
+	  }
+	  .table{
+		  margin-left:40%;
+	  }
+	  h2{
+		  background-color:green;
+		  color:white;
+		  border:solid green 10px;
+	  }
+	  .table{
+		  background-color:#dddddd;
+	  }
+	  tr:nth-child(odd){
+		  background-color:white
+	  }
+	 .container img{
+		  width:10px;
+		  height:10px;
+	  }
+    .calendar{
+      background-color: #dddddd;
+      display: block;
+      margin-left: :auto;
+      margin-right: auto;
+    }
+    .showCalendar_2{
+      background-color: #dddddd;
+      display: block;
+      margin-left: :auto;
+      margin-right: auto;
+    }
+    .selected-date{
+      background-color:yellow ;
+    }
+    h4{
+      text-align: center;
+    }
+    th{
+      background-color: green;
+    }
